@@ -3,7 +3,7 @@ Contributors: mrobinso
 Tags: songs, lyrics, albums, artists, admin_header
 Requires at least: 2.0
 Tested up to: 2.7
-Stable tag: 1.03
+Stable tag: 1.04
 
 Got tired of Hello Dolly lyrics, and being a Peter Gabriel fan, wrote this instead.
 
