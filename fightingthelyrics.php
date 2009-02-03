@@ -32,11 +32,6 @@ function get_lyric() {
         $lyrics = $group . " - " . $album . " - " . $song . ": ";
         $lyrics .= trim($lyricslinesarr[mt_rand(0,count($lyricslinesarr)-1)]);
      }
-
-	// Here we split it into lines
-	//$lyrics = explode("\n", $lyrics);
-
-	// And then randomly choose a line
 	return wptexturize($lyrics);
 }
 
