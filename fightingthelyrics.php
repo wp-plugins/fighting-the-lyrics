@@ -2,7 +2,7 @@
 /**
  * @package Fighting_The_Lyrics
  * @author Mike Robinson
- * @version 1.01
+ * @version 1.05
  */
 /*
 Plugin Name: Fighting The Lyrics
